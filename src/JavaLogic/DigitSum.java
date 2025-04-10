@@ -45,5 +45,5 @@ public class DigitSum {
 
         System.out.println("Sum of digits = " + sum);
         sc.close();
-    }
+        System.out.println("helo");    }
 }
